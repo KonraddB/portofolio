@@ -1124,3 +1124,9 @@ message-text .text {
 	flex-wrap: wrap;
 }
 }
+
+.btn1 {
+	width:60px;
+	height:20px;
+	background-color: #febd01;
+}
