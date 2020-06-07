@@ -1132,4 +1132,6 @@ message-text .text {
 	color:white;
 	text-transform:uppercase;
 	border:none;
+	margin-top:10px;
+	font-family:'Poppins', sans-serif;
 }
